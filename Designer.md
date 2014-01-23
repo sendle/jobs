@@ -12,7 +12,7 @@ We're a small team working remotely, so you need to be able to manage your own t
 
  * Ability to distil complex workflow and data interactions down to something that is a joy to use.
 
- * Highly proficient in HTML, CSS and JavaScript. Enjoys working with and improving large existing CSS codebases. Builds clean and maintainable css.
+ * Highly proficient in HTML and CSS, pretty good with JavaScript. Enjoys working with and improving large existing CSS codebases. Builds clean and maintainable css.
 
  * Know how to test designs. Whether it's A/B testing, focus groups or gathering usage analytics, you'll use these tools to help validate TuShare's UX. 
 
