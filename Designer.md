@@ -1,4 +1,4 @@
-Designer Position Description
+# Designer Position Description
 
 TuShare's goal is to make it easy for people to share the things they no longer need with people that do. To do this we're building  a community with a focus on environmental sustainability through giving and gratitude.
 
