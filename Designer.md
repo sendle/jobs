@@ -2,7 +2,7 @@
 
 TuShare's goal is to make it easy for people to share the things they no longer need with people that do. To do this we're building  a community with a focus on environmental sustainability through giving and gratitude.
 
-We're looking a front-end developer or designer to join the TuShare team. Ultimately we want you to own the look and feel of TuShare and help us solve some tricky UX problems. It will be your job make TuShare as easy and fun to use as possible. You'll be the advocate for the user; understanding what makes sense to them, how they use TuShare and ensuring they have the best possible experience.
+We're looking for a front-end developer or designer to join the TuShare team. Ultimately we want you to own the look and feel of TuShare and help us solve some tricky UX problems. It will be your job make TuShare as easy and fun to use as possible. You'll be the advocate for the user; understanding what makes sense to them, how they use TuShare and ensuring they have the best possible experience.
 
 We're a small team working remotely, so you need to be able to manage your own time and be good at communicating over the Internet. We use a process that's on the flexible end of Agile. But, as we grow, how we do our work will need to grow too. We want your input on that. So you should have ideas about how to better build software and be keen to share and champion them.
 
