@@ -16,4 +16,4 @@ The Manager will also work with Community Curators: volunteers who are actively 
 
 You are an energetic and motivated self-starter who prides themself on professionalism and high standards. You are able to act independently but also work well in a team environment, and are able to finish what you start.  You are across new and innovative technologies and social media best practice and are passionate about generating creative ways for TuShare to communicate with members and position itself. 
 
-For more information and a detailed position description, please email jobs@tushare.com
+ A detailed position description can be found [here](marketing-manager.pdf). Please submit your application to jobs@tushare.com.
